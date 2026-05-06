@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+
+# Data
+data/raw/
+
+# MLflow
+mlruns/
+
+# Logs
+logs/
+
+# Model weights - hosted on HF Hub
+models/
