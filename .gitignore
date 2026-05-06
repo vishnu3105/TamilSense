@@ -15,3 +15,5 @@ logs/
 
 # Model weights - hosted on HF Hub
 models/
+
+mlflow.db
